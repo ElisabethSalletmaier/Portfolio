@@ -3,6 +3,7 @@
 PONG GAME:
 consists of 2 files: main.py and classes.py
 The classes of classes.py are imported into the main.py
+python 3.10
 
 
 How it works:
